@@ -1,0 +1,6 @@
+[package]
+name = "guessing_game"
+version = "0.1.0"
+authors = ["cspears2002 <cspears2002@gmail.com>"]
+
+[dependencies]
